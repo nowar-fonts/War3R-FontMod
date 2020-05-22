@@ -6,6 +6,7 @@ Font modification tool for _Warcraft III: Reforged_.
 
 * Drag and drop, easy to use.
 * Keep letter spacing.
+
   ![Letter spacing](image/letter-spacing.jpg)
 
 ## Download
@@ -15,9 +16,9 @@ Font modification tool for _Warcraft III: Reforged_.
 ## How-to
 
 1. Choose a replacement font.
-  * If you have no idea, the bundled `sample-font.ttf` can be a good start.
-  * [Google Fonts](https://fonts.google.com/) and [Font Squirrel](https://www.fontsquirrel.com/) are good places to find free fonts.
-  * Variable fonts are not supported. (Choose a “static instance” instead.)
+   - If you have no idea, the bundled `sample-font.ttf` can be a good start.
+   - [Google Fonts](https://fonts.google.com/) and [Font Squirrel](https://www.fontsquirrel.com/) are good places to find free fonts.
+   - Variable fonts are not supported. (Choose a “static instance” instead.)
 2. Open the `War3R-FontMod` directory; then drag your font and drop it to `run.bat`. A folder `Fonts` will be created in several seconds.
 3. Move `Fonts` to _Warcraft III_ installation directory (usually `C:\Program Files (x86)\Warcraft III\`).
 
