@@ -20,7 +20,9 @@ Font modification tool for _Warcraft III: Reforged_.
    - [Google Fonts](https://fonts.google.com/) and [Font Squirrel](https://www.fontsquirrel.com/) are good places to find free fonts.
    - Variable fonts are not supported. (Choose a “static instance” instead.)
 2. Open the `War3R-FontMod` directory; then drag your font and drop it to `run.bat`. A folder `Fonts` will be created in several seconds.
-3. Move `Fonts` to _Warcraft III_ installation directory (usually `C:\Program Files (x86)\Warcraft III\`).
+3. Move `Fonts` to _Warcraft III_ installation directory,
+   - `...\Warcraft III\_retail_\` (Retail) or,
+   - `...\Warcraft III\_ptr_\` (PTR).
 
 ## (For advanced users) command line interface
 
